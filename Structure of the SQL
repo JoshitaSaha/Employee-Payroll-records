@@ -1,0 +1,20 @@
+employee-payroll-database/
+├── .github/
+│   └── workflows/
+│       └── sql-lint.yml
+├── assets/
+│   ├── ER_diagram.png
+│   └── query_results_sample.png
+├── data/
+│   ├── departments.csv
+│   ├── employees.csv
+│   └── payroll_records.csv
+├── scripts/
+│   ├── 01_schema.sql
+│   ├── 02_data_insertion.sql
+│   └── 03_analytical_queries.sql
+├── .gitignore
+├── CONTRIBUTING.md
+├── LICENSE
+├── README.md
+└── SECURITY.md
