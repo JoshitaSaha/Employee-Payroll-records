@@ -59,6 +59,7 @@ CREATE TABLE payroll_records (
     tax_rate DECIMAL(4, 2),
     net_pay DECIMAL(10, 2),
     payment_status VARCHAR(15),
+
 🔍 Key Tasks & Analytical Queries
 This repository includes scripts to perform essential data operations and business intelligence reporting:
 
